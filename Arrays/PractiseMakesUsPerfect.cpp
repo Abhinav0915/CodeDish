@@ -11,9 +11,8 @@ int main() {
         if(arr[i]>=10){
             count++;
         }
-        
     }
     cout << count;
-     
+    
 	return 0;
 }
